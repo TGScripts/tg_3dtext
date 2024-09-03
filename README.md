@@ -22,6 +22,13 @@
 ![Downloads (all assets, all releases)](https://img.shields.io/github/downloads/LetsTiger/tg_3dtext/total?label=Downloads)
 
 ---
+> [!CAUTION]
+> ## Shoutout
+> - Dieses Script wurde inspiriert von [RLO - Real Life Online](https://reallifeonline.net/).
+> - Das Originale Script wurde von 🦙 [@SirLamaGott](https://github.com/SirLamaGott) entwickelt.
+
+<hr>
+
 > [!NOTE]
 > ## Features
 > **tg_3dtext** ist ein 3D-Text Script für FiveM. Es bietet viele Features welche in der config selbst umgestellt werden. Aktuell gibt es nur eine deutsche Version.
