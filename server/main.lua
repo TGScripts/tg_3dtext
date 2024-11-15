@@ -21,7 +21,7 @@ end)
 
 if Config.Debug then
     RegisterCommand('debug3dtexts', function(source, args)
-        print('Aktuelle 3D-Texte auf dem Server:')
+        print(_('command_debug'))
         for i, textData in ipairs(texts) do
             print(i, textData.text, "~s~"..textData.coords)
         end

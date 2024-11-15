@@ -1,0 +1,17 @@
+Locales['de'] = {
+    ['positionmode_ended'] = "Der 3D-Text Positionierungsmodus wurde beendet.",
+    ['addtext_text_and_distance'] = "Bitte sowohl den ~y~Text~s~ als auch die ~y~Distanz~s~ angeben (zB: '~b~/add3dtext Hallo 10~s~').",
+    ['addtext_distance_range'] = "Die Distanz muss zwischen ~b~"..Config.MinDistance.."~s~ und ~b~"..Config.MaxDistance.."~s~ liegen.",
+    ['addtext_success'] = "Erfolgreich einen neuen 3D Text erstellt.",
+    ['addtext_position_first'] = "Bitte zuerst den '~b~/position3dtext~s~' Command verwenden.",
+    ['remtext_no_texts'] = "Es gibt keine 3D-Texte zum Entfernen.",
+    ['remtext_success'] = "Der nächste 3D-Text wurde entfernt.",
+    ['remtext_no_text_near'] = "Kein 3D-Text in der Nähe zum Entfernen.",
+    ['chat_position'] = "Starte den Platzierungsmodus für den 3D-Text.",
+    ['chat_addtext'] = "Platziere einen 3D-Text an der ausgewählten Position.",
+    ['chat_addtext_text'] = "Was soll drauf stehen?",
+    ['chat_addtext_distance'] = "Wie weit soll der Text gesehen werden?",
+    ['chat_remtext'] = "Entferne einen nahe gelegenen 3D-Text.",
+    ['chat_debug'] = "Liste aller aktiven 3D-Texte.",
+    ['command_debug'] = "Aktuelle 3D-Texte auf dem Server:",
+}
